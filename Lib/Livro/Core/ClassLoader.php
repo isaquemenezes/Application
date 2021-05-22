@@ -12,7 +12,7 @@
 
         } 
 
-        public function loadClass($lass) {
+        public function loadClass($class) {
             
         }
     }
